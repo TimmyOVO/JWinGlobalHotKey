@@ -1,0 +1,11 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Default Template template
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+*.iws
+*.ipr
+
+src/main/cpp/build
